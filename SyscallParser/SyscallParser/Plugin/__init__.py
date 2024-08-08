@@ -1,0 +1,1 @@
+from .SyscallParserIDA import SyscallParserClsIDA
